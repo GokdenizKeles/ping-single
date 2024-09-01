@@ -1,0 +1,90 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+body {
+  font-family: "Libre Franklin";
+}
+.main {
+  text-align: center;
+  margin-inline: auto;
+ width: 1440px;
+
+}
+.main h1 {
+  padding-top: 80px;
+line-height: 38.78px;
+padding-bottom: 40px;
+}
+.main h2 {
+font-size: 48px;
+font-weight: 300;
+line-height: 60px;
+color: #969696;
+padding-bottom: 16px;
+}
+.main .black-font {
+   color: black;
+}
+.main h5 {
+font-size: 20px;
+font-weight: 300;
+padding-bottom: 40px;
+}
+.main .form {
+  width: 421px;
+height: 56px;
+border-radius: 32px;
+padding-left: 30px;
+border: 1px solid rgba(194, 211, 255, 1) ;
+ font-size: 16px;
+margin-bottom: 94px;
+}
+
+input[type="email"]::placeholder {
+  color: #B8C7ED;
+}
+
+input[type="email"]:focus {
+  border-color: rgb(68, 176, 255) ;
+  
+}
+.btn {
+  width: 200px;
+height: 56px;
+background: rgba(76, 123, 243, 1);
+color: #fff;
+border-radius: 32px;
+border: 1px solid rgba(76, 123, 243, 1);
+margin-left: 16px;
+text-decoration: none;
+font-size: 16px;
+font-weight: 600;
+line-height: 19.39px;
+
+
+}
+.fooder-img {
+   margin-left: 400px;
+   display: block;
+  margin-bottom: 62px;
+  }
+.icon {
+   margin-bottom: 25px;
+}
+.main p {
+font-size: 12px;
+font-weight: 300;
+line-height: 14.54px;
+color: #969696;
+}
+.icon:hover {
+  fill: #B8C7ED;
+ 
+}
+  
+
+
+
